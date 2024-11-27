@@ -2,7 +2,7 @@
 To start the project you will need :
 - Visual Studio Code for the client side of the project.
 - Visual Studio Community for the server side of the project.
-(All the neccessery files are located in the folder "ÖgötaSolutions"!)
+(All the necessary files are located in the folder "ÖgötaSolutions"!)
 
 Step by step start up:
 - Open VScode terminal or Visual Studio Community terminal or any terminal of your choice.
@@ -12,7 +12,7 @@ Step by step start up:
 - Press Ctr + click on that link.
 - Your browser should open now with the home page of the project.
   
-** Warning, It might be neccessery to run the command "npm install" to install missing or outdated dependencies before run the command.
+** Warning, It might be necessery to run the command "npm install" to install missing or outdated dependencies before run the command.
 
 
 # About this project
