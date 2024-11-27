@@ -8,3 +8,6 @@ This Project is divided in two parts
 
 - The client side is build in Vite-React and uses Javascript.
   It will include modules/components that will handles the data display from the server side.
+
+
+To start the project run <<npm run dev>>  command in the terminal under the path <<...OgotaSolutions/client>>
