@@ -10,4 +10,4 @@ This Project is divided in two parts
   It will include modules/components that will handles the data display from the server side.
 
 
-To start the project run <<npm run dev>>  command in the terminal under the path <<...OgotaSolutions/client>>
+To start the project run <<"npm run dev">>  command in the terminal under the path <<...OgotaSolutions/client>>
