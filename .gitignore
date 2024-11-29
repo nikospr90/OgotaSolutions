@@ -33,6 +33,7 @@ $RECYCLE.BIN/
 *.vs/
 *bin/
 *server/.vs
+*server/obj/
 
 
 ############################
